@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Get short human-friendly date time difference like '5s' or '17m' or '33h'",
   "main": "diff.js",
-  "repository": "git@github.com:matisiekpl/short-date-diff.git",
+  "repository": "https://github.com/matisiekpl/short-date-diff.git",
   "author": "Mateusz Woźniak <matisiek11@gmail.com>",
   "license": "MIT",
   "devDependencies": {
